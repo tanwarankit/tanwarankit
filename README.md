@@ -1,6 +1,7 @@
 ### Hi there, I'm Ankit Tanwar <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-Full-stack software engineer here, though my heart beats a little faster for the backend. I'm fluent in Full-Stack, from the fun of crafting web3 games with collectible NFTs to the complexities of U.S. financial and healthcare applications. I'm all about making serverless (Lambdas) sing and keeping containers (ECS) in line. Oh, and I built a DevEx dashboard – think of it as a digital therapist for stressed-out code and release cycles
+Full-stack software engineer here, though my heart beats a little faster for the backend. I'm fluent in Full-Stack, from the fun of crafting web3 games with collectible NFTs to the complexities of U.S. financial and healthcare applications. I'm all about making serverless (Lambdas) sing and keeping containers (ECS) in line. Oh, and I built a DevEx dashboard – think of it as a digital therapist for stressed-out code and release cycles.
+A strong advocate for TDD and Extreme Programming practices.
 
 ### Connect with me:
 
